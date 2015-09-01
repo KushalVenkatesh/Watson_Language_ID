@@ -4,7 +4,7 @@ This node allows you to use the Watson Language Translation service on the Bluem
 
 ![Dialog](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration1.png)
 ![Output](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration2.png)
-![ModelerStream](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration3.png)
+![ModelerStream](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration3.PNG)
 
 ---
 Requirements
