@@ -1,10 +1,10 @@
 # Watson Language ID
 
-This node allows you to use the Watson Language Translation service on the Bluemix platform from within SPSS Modeler.   This extension identifies the language of the input text and provides a two letter language ID for the source language.  The output for this node is a new data table that contains a new column with the language identification of the input text.    
+This node allows you to use the Watson Language Translation service on the Bluemix platform from within IBM SPSS Modeler.   This extension identifies the language of the input text and provides a two letter language ID for the source language.  The output for this node is a new data table that contains a new column with the language identification of the input text.    
 
 ![Dialog](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration1.png)
 ![Output](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration2.png)
-![Stream](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration3.png)
+![ModelerStream](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Language-ID/master/Screenshot/Illustration3.png)
 
 ---
 Requirements
