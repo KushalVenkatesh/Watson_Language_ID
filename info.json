@@ -1,5 +1,5 @@
 {
- "type": [ "Extension" ],
+"type": [ "Extension" ],
 "provider": [ "IBM" ],
 "software": [ "SPSS Modeler" ],
 "language": [ " R" ],
