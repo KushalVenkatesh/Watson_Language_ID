@@ -1,8 +1,8 @@
 {
  "type": [ "Extension" ],
-"provider": [ "IBM" ],
+"provider": [ "Business Partner" ],
 "software": [ "SPSS Modeler" ],
-"language": [ "R" ],
+"language": [ " R" ],
 "category": [ "Watson" ],
 "promotion": [ "No" ] 
 }
